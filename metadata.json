@@ -2,7 +2,7 @@
   "name": "ZoomieCoin",
   "symbol": "ZME",
   "description": "Zoomie Coin — a celebration of cat zoomies.",
-  "image": "https://raw.githubusercontent.com/rouxpn/ZoomieCoin/980d137a763581b1f7629faad71d5c2f855ebf37/logo.png",
+  "image": "https://raw.githubusercontent.com/rouxpn/ZoomieCoin/main/logo.png",
   "attributes": [
     { "trait_type": "Version", "value": "2" }
   ]
