@@ -1,7 +1,7 @@
 {
   "name": "ZoomieCoin",
   "symbol": "ZMC",
-  "description": "Zoomie Coin — charity token for our beloeved cats, and celebration of cat zoomies. Just Zoomies",
+  "description": "Zoomie Coin — Charity token for our beloeved cats, and celebration of their zoomies",
   "image": "https://raw.githubusercontent.com/rouxpn/ZoomieCoin/main/logo.png",
   "attributes": [
     { "trait_type": "Type", "value": "Charity Coin" }
